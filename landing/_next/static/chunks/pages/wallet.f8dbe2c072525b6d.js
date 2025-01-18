@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5789],{87262:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/wallet",function(){return u(61668)}])},61668:function(n,t,u){"use strict";u.r(t),u.d(t,{__N_SSG:function(){return r},default:function(){return WalletPage}});var e=u(85893),_=u(15152),r=!0;function WalletPage(){return(0,e.jsx)(_.Z,{})}}},function(n){n.O(0,[954,7824,9774,2888,179],function(){return n(n.s=87262)}),_N_E=n.O()}]);
+//# sourceMappingURL=wallet.f8dbe2c072525b6d.js.map
